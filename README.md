@@ -22,5 +22,6 @@ If you're interested, I'm always open to coffee chats. You can schedule some tim
 - Member Experience Team @ [Web Dev at Berkeley](https://webatberkeley.org/) - Planning socials and other community events
 
 **Projects I've Worked On**
-- [TRUTH](https://misterluna.myportfolio.com/truth) – Incomplete, productivity tool and mindfulness coach.
+- [TRUTH](https://misterluna.myportfolio.com/truth) – Incomplete, productivity tool and mindfulness coach
 - [Free Ventures](https://www.freeventures.org/) – Website for pre-seed startup accelerator on campus
+- SIXT33N – Voice-controlled robotic car.

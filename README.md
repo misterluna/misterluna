@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Edward, a third-year college student at UC Berkeley (graduating 2023) studying Computer Science. I believe in the power of technology to improve our lives by [augmenting human intellect](https://www.dougengelbart.org/pubs/augment-3906.html). Whether that's creating beautiful web apps, solving problems on warehouse scale computers, or managing product development, I'm up for the challenge.
+I'm Edward, a third-year college student at UC Berkeley (graduating 2023) studying Computer Science. I believe in the power of technology to improve our lives by [augmenting human intellect](https://www.dougengelbart.org/pubs/augment-3906.html). Whether that's creating powerful and beautiful web apps, advancing scientific understanding in AI/ML, or product management, I'm up for the challenge.
 
 If you're interested, I'm always open to coffee chats. You can schedule some time with me [here](https://calendly.com/misterluna).
 

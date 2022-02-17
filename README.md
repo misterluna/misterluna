@@ -18,7 +18,7 @@ If you're interested, I'm always open to coffee chats. You can schedule some tim
 - [LinkedIn](https://www.linkedin.com/in/edwardlunacs/) – Let's get connected
 
 **Current Clubs at UC Berkeley**
-- Bootcamper @ [Web Dev at Berkeley](https://webatberkeley.org/bootcamp) – Rigorous training program
+- VP Bootcamp @ [Web Dev at Berkeley](https://webatberkeley.org/bootcamp) – Rigorous training program
 - Member Experience Team @ [Web Dev at Berkeley](https://webatberkeley.org/) - Planning socials and other community events
 
 **Projects I've Worked On**

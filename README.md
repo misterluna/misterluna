@@ -5,7 +5,7 @@ I'm Edward, a third-year student at UC Berkeley (graduating 2023) studying Compu
 If you're interested, I'm always open to coffee chats. You can schedule some time with me [here](https://calendly.com/misterluna).
 
 - 🔭 Studying machine learning and computer graphics
-- 🌱 Running the Product Bootcamp at Web Dev at Berkeley
+- 🌱 Leading the new member training inititive at Web Dev at Berkeley
 - 👯 Looking to collaborate on challenging industry projects 
 - 🤔 I enjoy work that allows me to exercise my leadership, [design](https://misterluna.myportfolio.com/), math, and coding skills
 - 💬 Ask me about the intersection of math and the fine arts!

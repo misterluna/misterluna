@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Edward, a third-year student at UC Berkeley (graduating 2023) studying Computer Science. I believe in the power of technology to [augmenting human intellect](https://www.dougengelbart.org/pubs/augment-3906.html). Whether that's creating powerful and beautiful web apps, advancing scientific understanding in AI/ML, or product management, I'm up for the challenge.
+I'm Edward, a new Computer Science graduate from UC Berkeley. I believe in the power of technology to [augmenting human intellect](https://www.dougengelbart.org/pubs/augment-3906.html). Whether that's creating powerful and beautiful web apps, advancing scientific understanding in AI/ML, or product management, I'm up for the challenge.
 
 If you're interested, I'm always open to coffee chats. You can schedule some time with me [here](https://calendly.com/misterluna).
 
@@ -16,11 +16,9 @@ If you're interested, I'm always open to coffee chats. You can schedule some tim
 **Links**
 - [Design Portfolio](https://misterluna.myportfolio.com/) – Portfolio of my creative work
 - [LinkedIn](https://www.linkedin.com/in/edwardlunacs/) – Let's get connected
-
-**Current Clubs at UC Berkeley**
-- VP Bootcamp @ [Web Dev at Berkeley](https://webatberkeley.org/bootcamp) – Training the developers of tomorrow
-
+- 
 **Projects I've Worked On**
+- VP Bootcamp @ [Web Dev at Berkeley](https://webatberkeley.org/bootcamp) – Training the developers of tomorrow
 - [TRUTH](https://misterluna.myportfolio.com/truth) – Incomplete, productivity tool and mindfulness coach
 - [Free Ventures](https://www.freeventures.org/) – Website for pre-seed startup accelerator on campus
 - SIXT33N – Voice-controlled robotic car.

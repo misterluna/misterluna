@@ -16,7 +16,6 @@ If you're interested, I'm always open to coffee chats. You reach out to me by em
 **Links**
 - [Design Portfolio](https://misterluna.myportfolio.com/) – Portfolio of my creative work
 - [LinkedIn](https://www.linkedin.com/in/edwardlunacs/) – Let's get connected
-- 
 **Projects I've Worked On**
 - VP Bootcamp @ [Web Dev at Berkeley](https://webatberkeley.org/bootcamp) – Training the developers of tomorrow
 - [TRUTH](https://misterluna.myportfolio.com/truth) – Incomplete, productivity tool and mindfulness coach

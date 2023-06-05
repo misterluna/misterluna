@@ -2,7 +2,7 @@
 
 I'm Edward, a new Computer Science graduate from UC Berkeley. I believe in the power of technology to [augmenting human intellect](https://www.dougengelbart.org/pubs/augment-3906.html). Whether that's creating powerful and beautiful web apps, advancing scientific understanding in AI/ML, or product management, I'm up for the challenge.
 
-If you're interested, I'm always open to coffee chats. You can schedule some time with me [here](https://calendly.com/misterluna).
+If you're interested, I'm always open to coffee chats. You reach out to me by email!
 
 - 🔭 Studying machine learning and computer graphics
 - 🌱 Leading the new member training inititive at Web Dev at Berkeley
